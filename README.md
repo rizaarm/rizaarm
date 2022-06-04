@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Riza
-- 👀 I’m interested in Webdevelopment. Specially in Javascript
+- 👀 I’m interested in Web development. Specially in Javascript
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects in Javascript
 - 📫 How to reach me? via rizaarm@gmail.com
